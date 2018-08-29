@@ -1,0 +1,28 @@
+.red {
+  background-color: red;
+  color: #fff;;
+  font-size: 25px;
+  height: 325px;
+  position: absolute;
+  width: 665px;
+}
+
+.blue {
+  background-color: blue;
+  height: 225px;
+  left: 7%;
+  position: absolute;
+  top: 14%;
+  width: 565px;
+}
+
+.green {
+  background-color: green;
+  height: 125px;
+  left: 8%;
+  position: absolute;
+  top: 21%;
+  width: 465px;
+}
+
+
